@@ -14,10 +14,8 @@ default_img: /assets/images/seo.jpg
 social:
   - name: instagram
     url: https://www.instagram.com/6x0_official
-  - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
-  - name: codepen
-    url: https://codepen.io/thomasvaeth/
+  - name: soundcloud
+    url: https://www.soundcloud.com/6x0_official
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
@@ -54,8 +52,8 @@ autopages:
     enabled: false
   tags:
     layouts: 
-      - 'tag.html'
-    title: '6XØ'
+      - ''
+    title: ''
     permalink: '/tag/:tag'
     slugify:
       mode: raw
