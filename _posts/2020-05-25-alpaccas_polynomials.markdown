@@ -8,6 +8,8 @@ author: 6XØ
 tags: 
   - EP
   - New Release
+  - 6XØ
+  - Techno
   
 ---
 
