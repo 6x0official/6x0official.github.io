@@ -10,6 +10,9 @@ tags:
   - New Release
   - 6XØ
   - Techno
+  - 6X0
+  - Techno
+  - Music
   
 ---
 

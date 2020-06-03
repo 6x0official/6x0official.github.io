@@ -10,6 +10,9 @@ tags:
   - 6XØ
   - SoundCloud
   - Techno
+  - 6X0
+  - Techno
+  - Music
 ---
 **Find our newest mixes on SoundCloud**
 
