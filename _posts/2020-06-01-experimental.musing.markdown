@@ -7,8 +7,9 @@ image: /assets/images/000001.jpg
 author: 6XØ
 tags: 
   - Mixes
-  - 6X0
+  - 6XØ
   - SoundCloud
+  - Techno
 ---
 **Find our newest mixes on SoundCloud**
 
