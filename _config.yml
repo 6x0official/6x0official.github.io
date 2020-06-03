@@ -1,10 +1,10 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: lab@6x0.cc
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
+name: 
 title: 6XØ
 description: >
   Experimental Sounds.
@@ -41,7 +41,7 @@ pagination:
   per_page: 12
   permalink: '/page/:num/'
   title: ':title'
-  limit: 0
+  limit: 50
   sort_field: 'date'
   sort_reverse: true
 autopages:
