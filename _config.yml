@@ -41,7 +41,7 @@ pagination:
   per_page: 12
   permalink: '/page/:num/'
   title: ':title'
-  limit: 50
+  limit: 
   sort_field: 'date'
   sort_reverse: true
 autopages:
