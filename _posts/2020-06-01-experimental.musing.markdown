@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Experimenal Musings"
-date: 2020-05-20
+date: 2020-06-01
 description: 
 image: /assets/images/000001.jpg
 author: 6XØ
